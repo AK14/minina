@@ -466,6 +466,24 @@ section {
     margin-bottom: 0;
 }
 
+.about .nav-link {
+    border: 0;
+    padding: 20px;
+    color: #555555;
+    transition: 0.3s;
+}
+
+.about .nav-link {
+    font-size: 18px;
+    transition: 0.3s;
+    min-width: 100%;
+}
+
+.about .nav-link:hover {
+    color: #151515;
+    transition: 0.3s;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/

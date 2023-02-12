@@ -15,19 +15,46 @@
             <div class="col-lg-6" data-aos="fade-left">
                 <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
                     <h3>Наиболее частые запросы в практике:</h3>
-                    <ul>
+<!--                    <ul>
                         <li><i class="bx bx-check-double"></i> сложности в детско-родительских отношениях; - проблематика семейных, партнёрских взаимоотношений</li>
                         <li><i class="bx bx-check-double"></i> кризисы возрастные, ненормативные, разводы, измены</li>
                         <li><i class="bx bx-check-double"></i> психологические травмы</li>
                         <li><i class="bx bx-check-double"></i> проживание утраты </li>
                         <li><i class="bx bx-check-double"></i> самореализация, личностный рост </li>
                         <li><i class="bx bx-check-double"></i> формирование самооценки, идентичности и многое другое  </li>
+                    </ul>-->
+                    <ul class="nav nav-tabs flex-column">
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                Сложности в детско-родительских&nbsp;отношениях;<br> проблематика&nbsp;семейных, партнёрских&nbsp;взаимоотношений
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                Кризисы возрастные, ненормативные, разводы, измены
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                Психологические травмы
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                Проживание утраты
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                Самореализация, личностный рост
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="nav-link">
+                                Формирование самооценки, идентичности и многое другое
+                            </div>
+                        </li>
                     </ul>
-                    <!--                        <p>
-                                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                                culpa qui officia deserunt mollit anim id est laborum
-                                            </p>-->
                 </div>
             </div>
         </div>
