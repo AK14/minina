@@ -633,6 +633,7 @@ section {
 }
 
 .why-us .accordion-list a {
+    color:inherit;
     display: block;
     position: relative;
     font-family: "Poppins", sans-serif;
@@ -641,6 +642,7 @@ section {
     font-weight: 500;
     padding-right: 30px;
     outline: none;
+    cursor: pointer;
 }
 
 .why-us .accordion-list span {
@@ -668,6 +670,7 @@ section {
 
 .why-us .accordion-list a.collapsed {
     color: #343a40;
+    text-decoration: none;
 }
 
 .why-us .accordion-list a.collapsed:hover {
@@ -753,6 +756,11 @@ section {
     -webkit-animation: none;
     animation: none;
     border-radius: 0;
+}
+
+.why-us .accordion-list .info-list li{
+    color: #555555;
+    padding: 0 1em;
 }
 
 @media (max-width: 1024px) {

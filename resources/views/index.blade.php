@@ -6,6 +6,7 @@
     <!-- ======= Services Section ======= -->
     <!-- ======= Featured Section ======= -->
     <!-- ======= Why Us Section ======= -->
+    @include('./partials.education')
     <!-- ======= Portfolio Section ======= -->
     <!-- ======= Testimonials Section ======= -->
     <!-- ======= Clients Section ======= -->
