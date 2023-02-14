@@ -12,6 +12,8 @@
     <!-- ======= Clients Section ======= -->
     <!-- ======= Team Section ======= -->
     <!-- ======= Pricing Section ======= -->
+    <!-- ======= Work Process Section ======= -->
+    @include('./partials.work_process')
     <!-- ======= Frequently Asked Questions Section ======= -->
     <!-- ======= Contact Section ======= -->
 @endsection

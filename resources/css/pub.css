@@ -1280,6 +1280,124 @@ section {
     font-weight: 600;
 }
 
+
+    /*--------------------------------------------------------------
+    # Process
+    --------------------------------------------------------------*/
+    .process .box {
+        padding: 20px;
+        background: #fff;
+        text-align: center;
+        border-radius: 8px;
+        position: relative;
+        overflow: hidden;
+        border: 1px solid #fff;
+        min-height: 100%;
+    }
+
+    .process .box h3 {
+        padding: 15px;
+        color: #151515;
+        font-weight: 700;
+        margin: 15px 0 5px 0;
+        font-size: 18px;
+    }
+
+    .process .box h4 {
+        font-size: 42px;
+        color: #151515;
+        font-weight: 700;
+        font-family: "Open Sans", sans-serif;
+        margin-bottom: 20px;
+    }
+
+    .process .box h4 sup {
+        font-size: 20px;
+        top: -15px;
+        left: -3px;
+    }
+
+    .process .box h4 span {
+        color: #bababa;
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .process .box ul {
+        padding: 0;
+        list-style: none;
+        color: #151515;
+        text-align: center;
+        line-height: 20px;
+        font-size: 14px;
+    }
+
+    .process .box ul li {
+        padding-bottom: 16px;
+    }
+
+    .process .box ul i {
+        color: #7cc576;
+        font-size: 18px;
+        padding-right: 4px;
+    }
+
+    .process .box ul .na {
+        color: #ccc;
+        text-decoration: line-through;
+    }
+
+    .process .box .btn-wrap {
+        padding: 15px;
+        text-align: center;
+    }
+
+    .process .box .btn-buy {
+        display: inline-block;
+        padding: 10px 40px 12px 40px;
+        border-radius: 5px;
+        border: 2px solid #7cc576;
+        color: #7cc576;
+        font-size: 14px;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 600;
+        transition: 0.3s;
+    }
+
+    .process .box .btn-buy:hover {
+        background: #7cc576;
+        color: #fff;
+    }
+
+    .process .recommended {
+        border-color: #7cc576;
+    }
+
+    .process .recommended .btn-buy {
+        background: #7cc576;
+        color: #fff;
+    }
+
+    .process .recommended .btn-buy:hover {
+        background: #61b959;
+        border-color: #61b959;
+    }
+
+    .process .recommended-badge {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1;
+        font-size: 12px;
+        padding: 4px 25px 6px 25px;
+        background: #eaf6e9;
+        color: #7cc576;
+        border-radius: 50px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/
