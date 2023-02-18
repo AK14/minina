@@ -1284,6 +1284,11 @@ section {
     /*--------------------------------------------------------------
     # Process
     --------------------------------------------------------------*/
+    .process .section-title p {
+        color: unset;
+        font-size: 18px;
+    }
+
     .process .box {
         padding: 20px;
         background: #fff;
@@ -1291,15 +1296,15 @@ section {
         border-radius: 8px;
         position: relative;
         overflow: hidden;
-        border: 1px solid #fff;
+        border: 1px solid rgba(188,188,188,0.5);
         min-height: 100%;
     }
 
     .process .box h3 {
         padding: 15px;
-        color: #151515;
+        color: rgba(85,85,85,1);
         font-weight: 700;
-        margin: 15px 0 5px 0;
+        /*margin: 15px 0 5px 0;*/
         font-size: 18px;
     }
 
