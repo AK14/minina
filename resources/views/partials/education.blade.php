@@ -3,7 +3,7 @@
        <div class="row">
                 <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-stretch">
                     <div class="content" data-aos="fade-up">
-                        <h3>Опытный <strong>терапевт - психолог </strong></h3>
+                        <h3>Опыт работы и образование </h3>
                         <p>
                             Опыт работы в государственных учреждениях образования и учреждении здравоохранения, а также в частной практике - 16 лет
                         </p>
