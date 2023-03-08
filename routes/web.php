@@ -19,4 +19,4 @@ Route::get('/', function () {
 
 Route::get('contract', function (){
    return view('clear');
-});
+})->name('contract');
